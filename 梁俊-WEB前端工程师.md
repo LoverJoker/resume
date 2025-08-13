@@ -2,41 +2,35 @@
 - 姓名：梁俊
 - 城市：长沙
 - 邮件：we@jokerliang.cn
-- 微信：783500986
 - 出生年月：1997年9月
+- 个人网站：https://jokerliang.cn/
 
 ## 求职意向 ##
 - 工作性质：全职
-- 目标职位：Web前端工程师
 
 ## 我的优势 ##
-- 我的优势：熟悉**Web PC / 移动端，小程序**，有独立负责整个项目从架构，上线的经验，有技术组带队能力，曾经负责过 6 人的团队。独立负责的**小白测评数据库**小程序，已服务数**百万**用户。
+- 我的优势：熟悉**Web端/ 移动端 / 原生 APP / 小程序**，有独立负责整个项目从架构，上线的经验，有技术组带队能力，曾经负责过 6 人的团队。独立负责的**小白测评数据库**小程序，已服务数**百万**用户； 独立完成**全平台应用听懂一切**，目前已上线 **[WEB](https://tingdong.cn/), IOS, 小程序, 原生鸿蒙**版本为数十万用户提供试听平台。
 
 ## 掌握技能 ##
-### Web前端 ###
-- 熟悉Http / Https 协议，了解Https为什么是安全的，熟悉RestApi设计思想。
-- 熟悉对称加密，非对称加密的原理。
+### 前端 ###
 - 能够独立编写 **Pc / 移动端Web** 应用，有过从初始化到上线的完整经验。
 - 能够独立编写 **微信小程序**，有过从初始化到上线的完整经验，其中独立负责的一个 **小白测评数据库** 小程序目前已服务数**百万**用户。
-- 熟悉**Vue**项目的搭建，能完成Vue前端项目的编写。
-- 熟悉**Element-Ui / Vant / Ant-Design 等**Ui框架的使用。
-- 熟悉使用Js / Dart 语言，熟练使用**Es6**语法。
-- 熟悉Flutter编写，能独立使用Flutter编写跨平台应用程序，成功上架过IOS应用商店。
-- 了解Node.js Koa框架的搭建，能完成Node.js服务端代码的编写。
-- 了解使用**React**，熟悉声明式语法的思想。
-- 了解uni-app跨平台框架的使用。
+- 能够独立编写 **Android原生应用**，有过从初始化到上线的完整经验。
+- 能够独立编写 **Flutter跨平台应用** ，有过从初始化到上线的完整经验。
+- 熟悉 IOS / Android 平台上架，**成功上线**过多款 IOS 应用
+- 熟悉**Vue**, **React**, **Next.js**。
+- 熟悉使用 Js / Dart  语言，熟练使用**Es6**语法。
+- 熟悉uni-app, Taro等跨平台框架的使用。
 - 了解并使用Sketch / Figma / 蓝湖 等设计平台。
 - **能够不断学习，积极拥抱前端变化**。
 
 ### 其他 ###
-- 熟悉Android原生代码的编写，熟练使用Kotlin语言。
-- 熟悉Flutter。
 - 熟悉Java后台的编写，熟悉Spring生态，熟悉Sql的编写。
+- 熟悉Node.js后台的编写。
 - 熟悉Linux语法，熟悉使用Docker,能完成项目的部署上线。
+- 熟悉 ModeBus，有过硬件适配经验。
 
 
-## 工作经历 ##
-- 湖南率然信息科技有限公司 2017年10月-2022年6月
 
 ## 项目经历 ##
 #### 小白测评数据库 ####
@@ -46,32 +40,28 @@
 - 服务端：配合使用JAVA语言开发，有高并发处理经验。
 - web管理端: 独立使用Vue框架开发。
 - 部署运维: 独立搭建CI/CD环境，基于docker进行容器部署，配合腾讯云实现负载均衡架构。
- 
-![‘小白测评’](https://joker-1252288448.cos.ap-nanjing.myqcloud.com/xiaobai_mini_app_149x149.jpg)
 
-### GiGiHouse 小程序 ###
-- 技术关键字：**微信小程序/Vant/We-Ui**
-- 商城类小程序，微信搜索**GiGi屋**即可体验。
-- 6人团队负责人，负责**整体框架的搭建, 技术路线的选择**以及同事之间的分工协作。
-- 使用原生语法编写，使用Vant组件库加速开发。
+<img src="https://joker-1252288448.cos.ap-nanjing.myqcloud.com/images/xiaobaiceping.jpg" width="200"/>
 
-### GiGiHouse 后台管理程序 ###
-- 技术关键字：**Vue/Element-Ui**。
-- 负责设备模块/广告模块的编写。
-- 负责协调同事之间的分工协作。
+#### 听懂一切 ####
+- 技术关键字：**WEB/微信小程序/APP/鸿蒙/全栈**
+- PC访问链接：https://tingdong.cn/。
+- IOS下载链接：https://apps.apple.com/cn/app/%E5%90%AC%E6%87%82%E4%B8%80%E5%88%87/id6587566426
+- 鸿蒙版本：**鸿蒙应用商店**搜索听懂一切
+- 小程序端：扫描下方二维码即可体验
+- **独立完成全平台应用**开发上架工作，技术栈如下 微信小程序: React/Taro、Pc: vue、IOS|Android: Flutter、 鸿蒙：ArkTS、服务端：Java
 
-### 智能水泵 ###
-- 技术关键字：**Flutter**
-- 智能水泵手机端：独立使用**Flutter**开发，尽可能做到了设计界面以及交互的还原，**IOS版本已成功上架Apple Store**。因为软件需要开发双平台，为了效率使用Flutter开发，Flutter提供的组件以及热重载能力使得开发效率大大提高，其声明性UI布局方式代表未来的方向，软件经过数次迭代，**目前已稳定运行2年**。
-- 智能水泵服务端：使用Node.js开发服务端，负责部分模块的API编写。
 
-### 开源项目 ###
-- [coolweathercoroutines](https://github.com/LoverJoker/coolweathercoroutines) 酷欧天气协程版使用Kotlin+JetPack+coroutines构建。
-- [BaseNodeJs](https://github.com/LoverJoker/BaseNodeJs) 使用Koa+mongoose搭建的Node.js基础服务端框架。
+<img src="https://joker-1252288448.cos.ap-nanjing.myqcloud.com/images/tingdongyiqie.jpg" width="200"/>
 
-## 校园经历 ##
-- 电影天堂 APP 开发：兴趣项目，发布在了论坛，[帖子](https://www.52pojie.cn/thread-591278-1-1.html) 被加精置顶，查看 **3W+** 次。
-- 2017 年湖南移动应用开发大赛二等奖：团队队长。
+
+### 其他项目 ###
+- GIGIHouse无人售货机
+- 自助果汁机
+- 阈限空间WEB站
+- 易测原生 Android 应用
+- .......
+
 
 ## 致谢 ##
 - 感谢您花时间阅读我的简历，期待能有机会与您一起共事 。
